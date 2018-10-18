@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //Compiled project
 #include<conio.h>
 #include<graphics.h>
 #include<dos.h>
