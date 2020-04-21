@@ -1,4 +1,3 @@
 # Four-in-one-Game-
 
-
-/hackerman_1.0_freekapde/
+I have to update the README.MD soon planning on adding a ML Algorithm for Zork
